@@ -6,7 +6,7 @@ import { useToast } from '@/hooks/use-toast';
 
 const ROBUX_COIN = 'https://cdn.poehali.dev/projects/d26345eb-2489-4538-80c9-fe349862f29f/files/fcbc1ccf-f662-4ff5-9a29-6b1631122cad.jpg';
 
-const AMOUNTS = [400, 800, 1700, 4500, 10000, 22500];
+const AMOUNTS = [100, 400, 500, 800, 1000, 1700, 4500, 10000, 22500];
 
 interface Tx {
   id: number;
